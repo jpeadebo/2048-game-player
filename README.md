@@ -1,2 +1,2 @@
 # 2048-game-player
-Personal repository for random practice projects
+Will incorperate a Evolutionary Neural Network and simple 2048 game to attempt to create a bot that nearly solves the game
